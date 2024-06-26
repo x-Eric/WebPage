@@ -7,7 +7,7 @@
 
 ---
 
-# 东电初试复试资料
+# 东电初试&复试资料
 
 [点此直达](https://github.com/x-Eric/NEEPU-EE)
 
